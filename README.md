@@ -70,5 +70,3 @@ python script.py -d monMotDePasse fichier.txt
 
 L'utilisation de cryptographie nécessite une bonne compréhension des principes de sécurité. Veuillez en tenir compte lors de l'utilisation de ce script.
 ```
-
-Ce `README.md` décrit le code, ses fonctionnalités, son utilisation, et donne des conseils pour la sécurité.
